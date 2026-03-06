@@ -1,3 +1,4 @@
-ConfiguracionIDE/
-*.png
-Manual.txt
+**/ConfiguracionIDE/
+
+**/*.png
+**/Manual.txt
